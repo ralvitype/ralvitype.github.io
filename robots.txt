@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://ralvitype.github.io/sitemap
+Sitemap: https://ralvitype.github.io/app/sitemap
+Sitemap: https://ralvitype.github.io/assets/sitemap
+Sitemap: https://ralvitype.github.io/css/sitemap
+Sitemap: https://ralvitype.github.io/includes/sitemap
+Sitemap: https://ralvitype.github.io/item/sitemap
+Sitemap: https://ralvitype.github.io/src/sitemap
